@@ -1,7 +1,7 @@
 wad3-rs
 ==============
 
-WAD3 serializer written in [Rust](https://www.rust-lang.org).
+WAD3 serialize library for [Rust](https://www.rust-lang.org).
 WAD3 is an archive format used by [GoldSrc](https://en.wikipedia.org/wiki/GoldSrc) game engine.
 
 License
