@@ -1,0 +1,8 @@
+[package]
+name = "wad3"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+rgb = "0.8.33"
+tinyvec = "1.6.0"
